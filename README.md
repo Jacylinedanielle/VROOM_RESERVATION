@@ -8,7 +8,7 @@ Current Task -> [People working on it.]
 -  SAD -> [Casper]
 -  MANUAL -> [Casper]
 -  CODE -> [Steven, Casper]
--  PPT 
+-  PPT -> [Jacyline]
 -  VIDEO 
 
 **SLIDES: [link]**\
